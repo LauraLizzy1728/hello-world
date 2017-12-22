@@ -18,6 +18,8 @@ public class CircleTester
 		
 		System.out.println("The area of the circle is: " + Circle.getArea(Circle.radius));
 		System.out.println("This is a test and i hate it so much");
+		
+		//Testing
 	}
 
 }
